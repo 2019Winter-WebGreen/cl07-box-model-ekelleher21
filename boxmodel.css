@@ -7,7 +7,8 @@
 /* The universal selector */
 
 * {
-
+    margin: 0;
+    padding: 0;
 }
 
 /* Body attributes here */
